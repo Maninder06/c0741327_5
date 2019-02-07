@@ -7,7 +7,7 @@ function myfunction(a, b) {
 
 function arrays() {
     var pens;
-    pens = new Array["red", "orange", "blue", "green", "pink", "purple"];
+    pens =["red", "orange", "blue", "green", "pink", "purple"];
     marker = pens;
     console.log(marker);
     console.log(marker[0]);
